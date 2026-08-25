@@ -53,12 +53,6 @@ Six forecasting approaches were evaluated using the same time-based test period.
 - **RMSE:** 47,583.78
 - **MAPE:** 16.75%
 
-Compared with the previous-period naive baseline, Prophet reduced:
-
-- MAE by approximately **65.6%**
-- RMSE by approximately **65.0%**
-- MAPE by approximately **61.3%**
-
 This indicates that the Prophet model was substantially better at capturing the underlying sales patterns in the evaluated test period.
 
 ---
